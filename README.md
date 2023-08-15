@@ -12,7 +12,7 @@ Memulai kelas "Belajar Dasar Git dengan GitHub" (Progress 39%)
   - Belajar asal mula Git dan Github
   - Memahami perintah di Github
 
-**16 Agustus 2023**
+**16 Agustus 2023**  
 Menyelesaikan kelas "Belajar Dasar Git dengan Github" (Progress 100%)
   - Belajar cara menggunakan, menambahkan, dan mengubah repository
   - Menggunakan commit dengan baik dan benar
